@@ -1,2 +1,2 @@
 # Embedded
-MPU
+Tổng hợp các project về embedded
